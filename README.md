@@ -4,7 +4,7 @@ A personalized music system depending upon your current mood to cheer you up!!!!
 This project uses facial emotion recognition to recommend music that matches the user's mood. It employs ResNet50V2 for emotion classification and maps the detected emotion to a predefined playlist.
 
 Key Features:
-  Captures real-time image input or loads an image,
+  \n Captures real-time image input or loads an image,
   
   Detects emotion using a deep learning model (ResNet50V2),
   
